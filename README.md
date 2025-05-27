@@ -100,7 +100,7 @@ Les modèles SQLAlchemy définissent la structure des tables de la base de donn�
    python run.py
 
 ==========================================================================================================================*
-#documentation tp 3 exo 4, 5 et 6
+# documentation tp 3 exo 4, 5 et 6
 
 # biblio
 EXERCICE 4
